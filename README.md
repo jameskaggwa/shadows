@@ -2,7 +2,9 @@
 Get perfect shadows and padding on your images for non designers.
 
 # Installaion
-`npm i --save shadows`
+```
+npm i --save shadows
+```
 # Basic Usage
 
 ``` javascript
@@ -20,3 +22,9 @@ shadows({
 shadows supports 2 options, both of which are optional:
 * *shadow_type*  -  _hard | soft _ (Defaults to soft) 
 * *padding* - _boolen_ (Defaults to false)
+
+
+---
+made by james ssekitoleko free to use 
+
+---
