@@ -1,0 +1,22 @@
+{
+  "name": "shadowsug",
+  "version": "1.0.0",
+  "description": "Applys shadows and padding to your images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameskaggwa/shadows.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "James Ssekitoleko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameskaggwa/shadows/issues"
+  },
+  "homepage": "https://github.com/jameskaggwa/shadows#readme"
+}
